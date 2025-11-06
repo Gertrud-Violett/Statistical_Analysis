@@ -2,7 +2,7 @@
 
 A comprehensive Python tool for manufacturing data analysis using Statistical Process Control (SPC) techniques. Designed for engineers with entry-level statistical knowledge, providing Minitab-like functionality.
 
-[![License: MIT](https://img.shields.io/badge/License-BSD2-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-BSD2-yellow.svg)](https://opensource.org/license/bsd-2-clause)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Version](https://img.shields.io/badge/version-1.1.0-green.svg)](CHANGELOG.md)
 
